@@ -1,0 +1,377 @@
+# github.com/5kbpers/goleveldb v0.0.0-20191026012746-22c00d9a18e3
+github.com/5kbpers/goleveldb/leveldb
+github.com/5kbpers/goleveldb/leveldb/cache
+github.com/5kbpers/goleveldb/leveldb/comparer
+github.com/5kbpers/goleveldb/leveldb/errors
+github.com/5kbpers/goleveldb/leveldb/filter
+github.com/5kbpers/goleveldb/leveldb/iterator
+github.com/5kbpers/goleveldb/leveldb/journal
+github.com/5kbpers/goleveldb/leveldb/memdb
+github.com/5kbpers/goleveldb/leveldb/opt
+github.com/5kbpers/goleveldb/leveldb/storage
+github.com/5kbpers/goleveldb/leveldb/table
+github.com/5kbpers/goleveldb/leveldb/util
+# github.com/BurntSushi/toml v0.3.1
+github.com/BurntSushi/toml
+# github.com/StackExchange/wmi v0.0.0-20180725035823-b12b22c5341f
+github.com/StackExchange/wmi
+# github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973
+github.com/beorn7/perks/quantile
+# github.com/blacktear23/go-proxyprotocol v0.0.0-20180807104634-af7a81e8dd0d
+github.com/blacktear23/go-proxyprotocol
+# github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd
+github.com/codahale/hdrhistogram
+# github.com/coreos/bbolt v1.3.3
+github.com/coreos/bbolt
+# github.com/coreos/etcd v3.3.13+incompatible
+github.com/coreos/etcd/alarm
+github.com/coreos/etcd/auth
+github.com/coreos/etcd/auth/authpb
+github.com/coreos/etcd/client
+github.com/coreos/etcd/clientv3
+github.com/coreos/etcd/clientv3/concurrency
+github.com/coreos/etcd/clientv3/namespace
+github.com/coreos/etcd/clientv3/naming
+github.com/coreos/etcd/compactor
+github.com/coreos/etcd/discovery
+github.com/coreos/etcd/embed
+github.com/coreos/etcd/error
+github.com/coreos/etcd/etcdserver
+github.com/coreos/etcd/etcdserver/api
+github.com/coreos/etcd/etcdserver/api/etcdhttp
+github.com/coreos/etcd/etcdserver/api/v2http
+github.com/coreos/etcd/etcdserver/api/v2http/httptypes
+github.com/coreos/etcd/etcdserver/api/v2v3
+github.com/coreos/etcd/etcdserver/api/v3client
+github.com/coreos/etcd/etcdserver/api/v3election
+github.com/coreos/etcd/etcdserver/api/v3election/v3electionpb
+github.com/coreos/etcd/etcdserver/api/v3election/v3electionpb/gw
+github.com/coreos/etcd/etcdserver/api/v3lock
+github.com/coreos/etcd/etcdserver/api/v3lock/v3lockpb
+github.com/coreos/etcd/etcdserver/api/v3lock/v3lockpb/gw
+github.com/coreos/etcd/etcdserver/api/v3rpc
+github.com/coreos/etcd/etcdserver/api/v3rpc/rpctypes
+github.com/coreos/etcd/etcdserver/auth
+github.com/coreos/etcd/etcdserver/etcdserverpb
+github.com/coreos/etcd/etcdserver/etcdserverpb/gw
+github.com/coreos/etcd/etcdserver/membership
+github.com/coreos/etcd/etcdserver/stats
+github.com/coreos/etcd/integration
+github.com/coreos/etcd/lease
+github.com/coreos/etcd/lease/leasehttp
+github.com/coreos/etcd/lease/leasepb
+github.com/coreos/etcd/mvcc
+github.com/coreos/etcd/mvcc/backend
+github.com/coreos/etcd/mvcc/mvccpb
+github.com/coreos/etcd/pkg/adt
+github.com/coreos/etcd/pkg/contention
+github.com/coreos/etcd/pkg/cors
+github.com/coreos/etcd/pkg/cpuutil
+github.com/coreos/etcd/pkg/crc
+github.com/coreos/etcd/pkg/debugutil
+github.com/coreos/etcd/pkg/fileutil
+github.com/coreos/etcd/pkg/httputil
+github.com/coreos/etcd/pkg/idutil
+github.com/coreos/etcd/pkg/ioutil
+github.com/coreos/etcd/pkg/logutil
+github.com/coreos/etcd/pkg/netutil
+github.com/coreos/etcd/pkg/pathutil
+github.com/coreos/etcd/pkg/pbutil
+github.com/coreos/etcd/pkg/runtime
+github.com/coreos/etcd/pkg/schedule
+github.com/coreos/etcd/pkg/srv
+github.com/coreos/etcd/pkg/testutil
+github.com/coreos/etcd/pkg/tlsutil
+github.com/coreos/etcd/pkg/transport
+github.com/coreos/etcd/pkg/types
+github.com/coreos/etcd/pkg/wait
+github.com/coreos/etcd/proxy/grpcproxy
+github.com/coreos/etcd/proxy/grpcproxy/adapter
+github.com/coreos/etcd/proxy/grpcproxy/cache
+github.com/coreos/etcd/raft
+github.com/coreos/etcd/raft/raftpb
+github.com/coreos/etcd/rafthttp
+github.com/coreos/etcd/snap
+github.com/coreos/etcd/snap/snappb
+github.com/coreos/etcd/store
+github.com/coreos/etcd/version
+github.com/coreos/etcd/wal
+github.com/coreos/etcd/wal/walpb
+# github.com/coreos/go-semver v0.2.0
+github.com/coreos/go-semver/semver
+# github.com/coreos/go-systemd v0.0.0-20181031085051-9002847aa142
+github.com/coreos/go-systemd/journal
+# github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f
+github.com/coreos/pkg/capnslog
+# github.com/cznic/sortutil v0.0.0-20150617083342-4c7342852e65
+github.com/cznic/sortutil
+# github.com/dgrijalva/jwt-go v3.2.0+incompatible
+github.com/dgrijalva/jwt-go
+# github.com/dgryski/go-farm v0.0.0-20190104051053-3adb47b1fb0f
+github.com/dgryski/go-farm
+# github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
+github.com/ghodss/yaml
+# github.com/go-ole/go-ole v1.2.1
+github.com/go-ole/go-ole
+github.com/go-ole/go-ole/oleutil
+# github.com/go-sql-driver/mysql v0.0.0-20170715192408-3955978caca4
+github.com/go-sql-driver/mysql
+# github.com/gogo/protobuf v1.2.0
+github.com/gogo/protobuf/gogoproto
+github.com/gogo/protobuf/io
+github.com/gogo/protobuf/proto
+github.com/gogo/protobuf/protoc-gen-gogo/descriptor
+# github.com/golang/groupcache v0.0.0-20190702054246-869f871628b6
+github.com/golang/groupcache/lru
+# github.com/golang/protobuf v1.3.2
+github.com/golang/protobuf/jsonpb
+github.com/golang/protobuf/proto
+github.com/golang/protobuf/ptypes
+github.com/golang/protobuf/ptypes/any
+github.com/golang/protobuf/ptypes/duration
+github.com/golang/protobuf/ptypes/struct
+github.com/golang/protobuf/ptypes/timestamp
+# github.com/golang/snappy v0.0.0-20180518054509-2e65f85255db
+github.com/golang/snappy
+# github.com/google/btree v1.0.0
+github.com/google/btree
+# github.com/google/uuid v1.1.1
+github.com/google/uuid
+# github.com/gorilla/context v1.1.1
+github.com/gorilla/context
+# github.com/gorilla/mux v1.6.2
+github.com/gorilla/mux
+# github.com/gorilla/websocket v1.4.0
+github.com/gorilla/websocket
+# github.com/grpc-ecosystem/go-grpc-middleware v1.0.1-0.20190118093823-f849b5445de4
+github.com/grpc-ecosystem/go-grpc-middleware
+github.com/grpc-ecosystem/go-grpc-middleware/tags
+github.com/grpc-ecosystem/go-grpc-middleware/tracing/opentracing
+github.com/grpc-ecosystem/go-grpc-middleware/util/metautils
+# github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
+github.com/grpc-ecosystem/go-grpc-prometheus
+# github.com/grpc-ecosystem/grpc-gateway v1.5.1
+github.com/grpc-ecosystem/grpc-gateway/runtime
+github.com/grpc-ecosystem/grpc-gateway/runtime/internal
+github.com/grpc-ecosystem/grpc-gateway/utilities
+# github.com/jonboulle/clockwork v0.1.0
+github.com/jonboulle/clockwork
+# github.com/json-iterator/go v1.1.6
+github.com/json-iterator/go
+# github.com/klauspost/cpuid v0.0.0-20170728055534-ae7887de9fa5
+github.com/klauspost/cpuid
+# github.com/konsorten/go-windows-terminal-sequences v1.0.1
+github.com/konsorten/go-windows-terminal-sequences
+# github.com/matttproud/golang_protobuf_extensions v1.0.1
+github.com/matttproud/golang_protobuf_extensions/pbutil
+# github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v1.0.1
+github.com/modern-go/reflect2
+# github.com/ngaut/pools v0.0.0-20180318154953-b7bc8c42aac7
+github.com/ngaut/pools
+# github.com/ngaut/sync2 v0.0.0-20141008032647-7a24ed77b2ef
+github.com/ngaut/sync2
+# github.com/opentracing/basictracer-go v1.0.0
+github.com/opentracing/basictracer-go
+github.com/opentracing/basictracer-go/wire
+# github.com/opentracing/opentracing-go v1.0.2
+github.com/opentracing/opentracing-go
+github.com/opentracing/opentracing-go/ext
+github.com/opentracing/opentracing-go/log
+# github.com/pingcap/check v0.0.0-20190102082844-67f458068fc8
+github.com/pingcap/check
+# github.com/pingcap/errors v0.11.4
+github.com/pingcap/errors
+# github.com/pingcap/failpoint v0.0.0-20190512135322-30cc7431d99c
+github.com/pingcap/failpoint
+# github.com/pingcap/kvproto v0.0.0-20190910074005-0e61b6f435c1
+github.com/pingcap/kvproto/pkg/coprocessor
+github.com/pingcap/kvproto/pkg/debugpb
+github.com/pingcap/kvproto/pkg/eraftpb
+github.com/pingcap/kvproto/pkg/errorpb
+github.com/pingcap/kvproto/pkg/kvrpcpb
+github.com/pingcap/kvproto/pkg/metapb
+github.com/pingcap/kvproto/pkg/pdpb
+github.com/pingcap/kvproto/pkg/raft_serverpb
+github.com/pingcap/kvproto/pkg/sharedbytes
+github.com/pingcap/kvproto/pkg/tikvpb
+# github.com/pingcap/log v0.0.0-20190715063458-479153f07ebd
+github.com/pingcap/log
+# github.com/pingcap/parser v0.0.0-20190923031704-33636bc5e5d6
+github.com/pingcap/parser
+github.com/pingcap/parser/ast
+github.com/pingcap/parser/auth
+github.com/pingcap/parser/charset
+github.com/pingcap/parser/format
+github.com/pingcap/parser/model
+github.com/pingcap/parser/mysql
+github.com/pingcap/parser/opcode
+github.com/pingcap/parser/terror
+github.com/pingcap/parser/types
+# github.com/pingcap/pd v0.0.0-20190712044914-75a1f9f3062b
+github.com/pingcap/pd/client
+# github.com/pingcap/tidb-tools v2.1.3-0.20190321065848-1e8b48f5c168+incompatible
+github.com/pingcap/tidb-tools/pkg/etcd
+github.com/pingcap/tidb-tools/pkg/utils
+github.com/pingcap/tidb-tools/tidb-binlog/node
+github.com/pingcap/tidb-tools/tidb-binlog/pump_client
+# github.com/pingcap/tipb v0.0.0-20190806070524-16909e03435e
+github.com/pingcap/tipb/go-binlog
+github.com/pingcap/tipb/go-tipb
+github.com/pingcap/tipb/sharedbytes
+# github.com/pkg/errors v0.8.1
+github.com/pkg/errors
+# github.com/prometheus/client_golang v0.9.0
+github.com/prometheus/client_golang/prometheus
+github.com/prometheus/client_golang/prometheus/internal
+github.com/prometheus/client_golang/prometheus/promhttp
+# github.com/prometheus/client_model v0.0.0-20180712105110-5c3871d89910
+github.com/prometheus/client_model/go
+# github.com/prometheus/common v0.0.0-20181020173914-7e9e6cabbd39
+github.com/prometheus/common/expfmt
+github.com/prometheus/common/internal/bitbucket.org/ww/goautoneg
+github.com/prometheus/common/model
+# github.com/prometheus/procfs v0.0.0-20181005140218-185b4288413d
+github.com/prometheus/procfs
+github.com/prometheus/procfs/internal/util
+github.com/prometheus/procfs/nfs
+github.com/prometheus/procfs/xfs
+# github.com/shirou/gopsutil v2.18.10+incompatible
+github.com/shirou/gopsutil/internal/common
+github.com/shirou/gopsutil/mem
+# github.com/shurcooL/httpfs v0.0.0-20171119174359-809beceb2371
+github.com/shurcooL/httpfs/vfsutil
+# github.com/shurcooL/vfsgen v0.0.0-20181020040650-a97a25d856ca
+github.com/shurcooL/vfsgen
+# github.com/sirupsen/logrus v1.2.0
+github.com/sirupsen/logrus
+# github.com/soheilhy/cmux v0.1.4
+github.com/soheilhy/cmux
+# github.com/spaolacci/murmur3 v0.0.0-20180118202830-f09979ecbc72
+github.com/spaolacci/murmur3
+# github.com/tiancaiamao/appdash v0.0.0-20181126055449-889f96f722a2
+github.com/tiancaiamao/appdash
+github.com/tiancaiamao/appdash/httptrace
+github.com/tiancaiamao/appdash/internal/wire
+github.com/tiancaiamao/appdash/sqltrace
+github.com/tiancaiamao/appdash/traceapp
+github.com/tiancaiamao/appdash/traceapp/tmpl
+# github.com/tmc/grpc-websocket-proxy v0.0.0-20171017195756-830351dc03c6
+github.com/tmc/grpc-websocket-proxy/wsproxy
+# github.com/uber/jaeger-client-go v2.15.0+incompatible
+github.com/uber/jaeger-client-go
+github.com/uber/jaeger-client-go/config
+github.com/uber/jaeger-client-go/internal/baggage
+github.com/uber/jaeger-client-go/internal/baggage/remote
+github.com/uber/jaeger-client-go/internal/spanlog
+github.com/uber/jaeger-client-go/internal/throttler
+github.com/uber/jaeger-client-go/internal/throttler/remote
+github.com/uber/jaeger-client-go/log
+github.com/uber/jaeger-client-go/rpcmetrics
+github.com/uber/jaeger-client-go/thrift
+github.com/uber/jaeger-client-go/thrift-gen/agent
+github.com/uber/jaeger-client-go/thrift-gen/baggage
+github.com/uber/jaeger-client-go/thrift-gen/jaeger
+github.com/uber/jaeger-client-go/thrift-gen/sampling
+github.com/uber/jaeger-client-go/thrift-gen/zipkincore
+github.com/uber/jaeger-client-go/transport
+github.com/uber/jaeger-client-go/utils
+# github.com/uber/jaeger-lib v1.5.0
+github.com/uber/jaeger-lib/metrics
+# github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2
+github.com/xiang90/probing
+# go.uber.org/atomic v1.3.2
+go.uber.org/atomic
+# go.uber.org/multierr v1.1.0
+go.uber.org/multierr
+# go.uber.org/zap v1.9.1
+go.uber.org/zap
+go.uber.org/zap/buffer
+go.uber.org/zap/internal/bufferpool
+go.uber.org/zap/internal/color
+go.uber.org/zap/internal/exit
+go.uber.org/zap/zapcore
+# golang.org/x/crypto v0.0.0-20190911031432-227b76d455e7
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/blowfish
+golang.org/x/crypto/ssh/terminal
+# golang.org/x/net v0.0.0-20190909003024-a7b16738d86b
+golang.org/x/net/context
+golang.org/x/net/http/httpguts
+golang.org/x/net/http2
+golang.org/x/net/http2/hpack
+golang.org/x/net/idna
+golang.org/x/net/internal/timeseries
+golang.org/x/net/trace
+# golang.org/x/sys v0.0.0-20190910064555-bbd175535a8b
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/text v0.3.2
+golang.org/x/text/encoding
+golang.org/x/text/encoding/charmap
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/japanese
+golang.org/x/text/encoding/korean
+golang.org/x/text/encoding/simplifiedchinese
+golang.org/x/text/encoding/traditionalchinese
+golang.org/x/text/encoding/unicode
+golang.org/x/text/internal/utf8internal
+golang.org/x/text/runes
+golang.org/x/text/secure/bidirule
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+# golang.org/x/time v0.0.0-20190308202827-9d24e82272b4
+golang.org/x/time/rate
+# golang.org/x/tools v0.0.0-20190911022129-16c5e0f7d110
+golang.org/x/tools/container/intsets
+# google.golang.org/genproto v0.0.0-20190905072037-92dd089d5514
+google.golang.org/genproto/googleapis/rpc/status
+# google.golang.org/grpc v1.23.0
+google.golang.org/grpc
+google.golang.org/grpc/balancer
+google.golang.org/grpc/balancer/base
+google.golang.org/grpc/balancer/roundrobin
+google.golang.org/grpc/binarylog/grpc_binarylog_v1
+google.golang.org/grpc/codes
+google.golang.org/grpc/connectivity
+google.golang.org/grpc/credentials
+google.golang.org/grpc/credentials/internal
+google.golang.org/grpc/encoding
+google.golang.org/grpc/encoding/proto
+google.golang.org/grpc/grpclog
+google.golang.org/grpc/health
+google.golang.org/grpc/health/grpc_health_v1
+google.golang.org/grpc/internal
+google.golang.org/grpc/internal/backoff
+google.golang.org/grpc/internal/balancerload
+google.golang.org/grpc/internal/binarylog
+google.golang.org/grpc/internal/channelz
+google.golang.org/grpc/internal/envconfig
+google.golang.org/grpc/internal/grpcrand
+google.golang.org/grpc/internal/grpcsync
+google.golang.org/grpc/internal/syscall
+google.golang.org/grpc/internal/transport
+google.golang.org/grpc/keepalive
+google.golang.org/grpc/metadata
+google.golang.org/grpc/naming
+google.golang.org/grpc/peer
+google.golang.org/grpc/resolver
+google.golang.org/grpc/resolver/dns
+google.golang.org/grpc/resolver/passthrough
+google.golang.org/grpc/serviceconfig
+google.golang.org/grpc/stats
+google.golang.org/grpc/status
+google.golang.org/grpc/tap
+# gopkg.in/natefinch/lumberjack.v2 v2.0.0
+gopkg.in/natefinch/lumberjack.v2
+# gopkg.in/yaml.v2 v2.2.2
+gopkg.in/yaml.v2
+# sourcegraph.com/sourcegraph/appdash v0.0.0-20180531100431-4c381bd170b4
+sourcegraph.com/sourcegraph/appdash
+sourcegraph.com/sourcegraph/appdash/internal/wire
+sourcegraph.com/sourcegraph/appdash/opentracing
+# sourcegraph.com/sourcegraph/appdash-data v0.0.0-20151005221446-73f23eafcf67
+sourcegraph.com/sourcegraph/appdash-data

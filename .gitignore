@@ -13,6 +13,5 @@ cmd/explaintest/explain-test.out
 cmd/explaintest/explaintest_tidb-server
 *.fail.go
 tools/bin/
-vendor
 /_tools/
 .DS_Store
